@@ -65,12 +65,6 @@ amazon-sales-analytics/
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard](images/dashboard_screenshot.png)
-
----
-
 ## 🚀 How to Run
 
 ```bash
